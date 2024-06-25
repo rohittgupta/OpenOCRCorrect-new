@@ -1,5 +1,6 @@
 # OpenOCRCorrect-new
 #-----Taken from rohitsaluja/OpenOCRConnect-----
+Addition some new part like bold/Unbold , superscript and subscript features ...
 
 # OpenOCRCorrect
 A framework for assisting human while correcting the OCR errors in documents, mostly dedicated to Indian Languages.
